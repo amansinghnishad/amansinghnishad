@@ -6,7 +6,9 @@
 -->
 
 
+
 https://github.com/amansinghnishad/amansinghnishad/assets/115929976/37e60bdf-16f3-4b90-9464-b5a9f89cd423
+
 
   <br>
 
@@ -35,6 +37,10 @@ https://github.com/amansinghnishad/amansinghnishad/assets/115929976/37e60bdf-16f
 
 
 ### **🔧 Tools**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
   <br>
@@ -63,4 +69,9 @@ I'm always up for interesting projects and collaborations, so feel free to reach
 
   <br>
   <br>
-> ### Let's code and learn together! 🚀
+  
+  > ### Let's code and learn together! 🚀
+  <br>
+  <br>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=amansinghnishad&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
