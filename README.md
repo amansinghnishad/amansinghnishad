@@ -74,4 +74,4 @@ I'm always up for interesting projects and collaborations, so feel free to reach
   <br>
   <br>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=amansinghnishad&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
