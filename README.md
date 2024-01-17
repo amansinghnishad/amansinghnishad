@@ -27,7 +27,7 @@ https://github.com/amansinghnishad/amansinghnishad/assets/115929976/37e60bdf-16f
 
 ### **🔧 Skills**
 
-- **Programming Languages**: Java
+- **Programming Languages**: Java, HTML, CSS, JavaScript, Bootstrap...
 - **Data Structures & Algorithms**: Well-versed in DSA
 - **Web Development**: Exploring the world of web development
 
