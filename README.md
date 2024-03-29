@@ -43,7 +43,6 @@ https://github.com/amansinghnishad/amansinghnishad/assets/115929976/37e60bdf-16f
 ![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://img.shields.io/badge/-{HTML5}-{White}?logo={HTML5}&logoColor={black}&style={STYLE}" alt="badge sample"/>
 
 
 
