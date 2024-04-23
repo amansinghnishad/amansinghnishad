@@ -94,5 +94,7 @@ I'm always up for interesting projects and collaborations, so feel free to reach
   > ### Let's code and learn together! 🚀
   <br>
   <br>
-  ![amansinghnishad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansinghnishad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+  
+![amansinghnishad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansinghnishad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amansinghnishad)](https://git.io/streak-stats)
