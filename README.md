@@ -73,10 +73,19 @@ I'm always up for interesting projects and collaborations, so feel free to reach
   <br>
 ### Connect Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amansinghnishad/)
-[![Email](https://img.shields.io/badge/Email-Send-ff69b4)](mailto:amansinghnishad0808@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brightgreen)](https://leetcode.com/amansinghnishad/)
 
+
+<p align="center">
+	<a href="mailto:amansinghnishad0808@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
+	<a href="https://www.linkedin.com/in/amansinghnishad/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
+	
+</p>
+ 
+<div align="center">
+  
+![counter](https://komarev.com/ghpvc/?username=amansinghnishad)
+
+</div>
 
 
   <br>
@@ -85,5 +94,5 @@ I'm always up for interesting projects and collaborations, so feel free to reach
   > ### Let's code and learn together! 🚀
   <br>
   <br>
-  
+  ![amansinghnishad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansinghnishad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amansinghnishad)](https://git.io/streak-stats)
