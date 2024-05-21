@@ -95,5 +95,8 @@ I'm always up for interesting projects and collaborations, so feel free to reach
   <br>
   <br>
   
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amansinghnishad)](https://git.io/streak-stats)
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansinghnishad&show_icons=true&locale=en&layout=compact" alt="amansinghnishad" />
+-->
+
