@@ -2,6 +2,7 @@
 
 👀 I’m interested in web development and enjoy experimenting with different things.<br>
 🌱 I’m currently learning scalability and designing principles.
+  - Just exploring NeoVim
 <br>
 <br>
 <br>
