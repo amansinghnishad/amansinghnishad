@@ -1,6 +1,6 @@
 # Hi! I'm **Aman Singh Nishad** 👋
 
-👀 I’m interested in web devlopment. and experimenting diffrent things<br>
+👀 I’m interested in web development and enjoy experimenting with different things.<br>
 🌱 I’m currently learning scalability and designing principles.
 <br>
 <br>
