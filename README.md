@@ -1,4 +1,4 @@
-# Hi! I'm **Aman Singh Nishad** 👋
+# Hi! I'm **ASN** 👋
 
 👀 I’m interested in web development and enjoy experimenting with different things.<br>
 🌱 I’m currently learning scalability and designing principles.
